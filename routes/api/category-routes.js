@@ -65,7 +65,7 @@ router.put('/:id', (req, res) => {
     }
     )
     .then(updateIdCategories => {
-      if (!updateIdCategories) {
+      if (!updateIdCategories[0]) {
         res.status(404).json({ message: 'No categories found with this id' });
         return;
       }
