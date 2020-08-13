@@ -25,6 +25,14 @@ Product.init(
       validate:{
         is: /^([0-9])*$/
       }      
+    },    
+      stock:{
+        type: DataTypes.INTEGER,
+        allowNull: false,
+        defaultValue: 10,
+        validate: {          
+          is:/^([0-9])*$/
+        }
     },
     category_id: {
       type: DataTypes.INTEGER,
