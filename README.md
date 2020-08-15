@@ -33,7 +33,7 @@ E-commerce is a Back End site where a user or owner of a sales business can cont
 # Usage 
  - The user need run the database to introduce  the database password
 - Write this line command "source schema.sql" in mysql
-- Run a sedd in a normal terminal
+- Run a seed in a normal terminal
 - Run the server.js file
 - Finally open Insomnia for see all the info and add info, update or delete.
 
