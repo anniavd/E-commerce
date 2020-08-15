@@ -6,7 +6,7 @@
 
 # Description
 
-E-commerce is a Back End site where a user or owner of a sales business can control their products, categories and tags associated with each other. 
+E-commerce is a Back End site where a user or owner of a sales business can control their products, categories and tags associated with each other. The user can view all the products associated with a category and tag, the categories together with their tags and the tags with all their associated products, and can also view each one specifically.You can add, update and delete products,categories and tags.
   
 
 # Table of Contents
