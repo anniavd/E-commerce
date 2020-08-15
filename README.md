@@ -8,6 +8,9 @@
 
 E-commerce is a Back End site where a user or owner of a sales business can control their products, categories and tags associated with each other. The user can view all the products associated with a category and tag, the categories together with their tags and the tags with all their associated products, and can also view each one specifically.You can add, update and delete products,categories and tags.
   
+  ### You can find an explanatory video about the app.
+
+ [link to the app video](https://drive.google.com/file/d/13WMzqq90sbmbsx8-85rHA12xIB-wXx2w)
 
 # Table of Contents
 
