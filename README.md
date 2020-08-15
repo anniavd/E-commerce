@@ -25,9 +25,9 @@ E-commerce is a Back End site where a user or owner of a sales business can cont
 
   
 # Installation 
- - Install Visual Studio Code
-- Inside the Visual Studio Code need create a file .env where need write DB_USER=<database name>,DB_USER=<your name user for your database> and then DB_PW=<password for your database>
-- Install Insomnia app
+ - Install Visual Studio Code.
+- Inside the Visual Studio Code need create a file .env where need write DB_USER=database name,DB_USER=< name user for your database> and then DB_PW=password for your database.
+- Install Insomnia app.
 
 
 # Usage 
