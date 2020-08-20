@@ -10,7 +10,7 @@ E-commerce is a Back End site where a user or owner of a sales business can cont
   
   ### You can find an explanatory video about the app.
 
- [link to the app video](https://drive.google.com/file/d/13WMzqq90sbmbsx8-85rHA12xIB-wXx2w)
+ [link to the app video](https://drive.google.com/file/d/13WMzqq90sbmbsx8-85rHA12xIB-wXx2w/view)
 
 # Table of Contents
 
